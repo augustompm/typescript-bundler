@@ -1,9 +1,5 @@
-### Pump.Fun Bundler
+### Pump.Fun Learning Camp
 
-This is a simple **Pump.Fun bundler** – your ultimate solution for bundling on Pump.Fun with advanced profile creation and anti-bubble maps!
+This is a simple **Pump.Fun Camp** – your ultimate solution for learning blockchain operations.
 
-You can launch a token and snipe with 20 different wallets and profiles. 
-
-You can send DM if you need advanced tools.
-
-https://t.me/microgift28
+You can learn how to launch a token and learn how to operate with all of your wallets.
